@@ -1,0 +1,20 @@
+[
+    {
+        "productArea": "Plaid",
+        "team": "Global Limits",
+        "goalieTag": "@gl-limits-experience-goalie-on-call",
+        "slackChannel": "#gl-limits-experience-xfn"
+    },
+    {
+        "productArea": "Multi Entity Global Billing",
+        "team": "Global Accounts",
+        "goalieTag": "@global-accounts-goalie",
+        "slackChannel": "#ge-global-accounts-help"
+    },
+    {
+        "productArea": "Apple Wallet",
+        "team": "Card Experiences",
+        "goalieTag": "@card-experiences-goalie",
+        "slackChannel": "#card-experiences-help"
+    }
+]
